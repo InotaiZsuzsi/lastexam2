@@ -1,0 +1,26 @@
+body {
+  background-color: #f0f8f5; 
+  font-family: Arial, sans-serif; 
+  color: #205230; 
+  margin: 20px;
+}
+
+h1 {
+  color: #287233; 
+}
+
+ul {
+  list-style-type: none; 
+  padding: 0;
+}
+
+li {
+  background-color: #a8d5aa; 
+  margin-bottom: 8px;
+  padding: 10px;
+  border-radius: 5px; 
+}
+
+li:hover {
+  background-color: #8cbf88; 
+}
